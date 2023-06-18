@@ -1,0 +1,19 @@
+{
+    "mainapp": {
+        "target": {
+            "name": "tree\/tree",
+            "opts": "-fdiagnostics-color=always -g -Wall -Wformat -Werror -Wfatal-errors -lsfml-graphics -lsfml-window -lsfml-system"
+        },
+        "files": [
+            {
+                "name": "tree\/main.cpp",
+                "hash": "d6ca2f8a85a308320e9f61b5f0cf8314"
+            },
+            {
+                "name": "tree\/tree.hpp",
+                "hash": "88986a9eed51898fb49368d8b4ed5ba5"
+            }
+        ]
+    },
+    "projects": ""
+}
