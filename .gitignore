@@ -1,1 +1,6 @@
 tree
+build-app/
+build-test/
+coverage-report/
+*.gcno
+*.gcda
